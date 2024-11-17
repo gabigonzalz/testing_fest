@@ -1,4 +1,4 @@
-# Chat Application with Test-Driven Development
+# Chat Application with Testing
 
 This project demonstrates advanced testing practices including Test-Driven Development (TDD), unit testing, and integration testing using pytest. While it implements a basic chat application, the main focus is on showcasing various testing methodologies and best practices.
 
