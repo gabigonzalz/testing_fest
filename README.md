@@ -64,19 +64,15 @@ pytest --cov=.
 
 ### Pytest Features
 - Fixtures for test setup
-- Parameterized testing
 - Mock objects and patches
 - Exception testing
-- Async testing
 
 ### Mock Objects
 - Socket mocking
 - Input/Output mocking
+- Function mocking
 - Network operation simulation
-- Event simulation
 
 ### Testing Patterns
 - Arrange-Act-Assert pattern
-- Given-When-Then structure
 - Test isolation
-- Dependency injection
